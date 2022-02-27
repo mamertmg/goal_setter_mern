@@ -1,5 +1,5 @@
 # goal_setter_mern
-Goal setter application using MERN Stack
+Goal setter application using MERN Stack & REDUX for state management
 
 ## Features
 - NodeJS & Express Framework
